@@ -2,6 +2,8 @@
 #include <vector>
 using namespace std;
 
+// added comments 
+
 void myvectorinit()
 {
   vector<int> g1;
